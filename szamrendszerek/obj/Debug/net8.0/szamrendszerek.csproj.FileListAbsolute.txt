@@ -1,0 +1,14 @@
+C:\Users\sipos\source\repos\szamrendszerek\szamrendszerek\obj\Debug\net8.0\szamrendszerek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sipos\source\repos\szamrendszerek\szamrendszerek\obj\Debug\net8.0\szamrendszerek.AssemblyInfoInputs.cache
+C:\Users\sipos\source\repos\szamrendszerek\szamrendszerek\obj\Debug\net8.0\szamrendszerek.AssemblyInfo.cs
+C:\Users\sipos\source\repos\szamrendszerek\szamrendszerek\obj\Debug\net8.0\szamrendszerek.csproj.CoreCompileInputs.cache
+C:\Users\sipos\source\repos\szamrendszerek\szamrendszerek\bin\Debug\net8.0\szamrendszerek.exe
+C:\Users\sipos\source\repos\szamrendszerek\szamrendszerek\bin\Debug\net8.0\szamrendszerek.deps.json
+C:\Users\sipos\source\repos\szamrendszerek\szamrendszerek\bin\Debug\net8.0\szamrendszerek.runtimeconfig.json
+C:\Users\sipos\source\repos\szamrendszerek\szamrendszerek\bin\Debug\net8.0\szamrendszerek.dll
+C:\Users\sipos\source\repos\szamrendszerek\szamrendszerek\bin\Debug\net8.0\szamrendszerek.pdb
+C:\Users\sipos\source\repos\szamrendszerek\szamrendszerek\obj\Debug\net8.0\szamrendszerek.dll
+C:\Users\sipos\source\repos\szamrendszerek\szamrendszerek\obj\Debug\net8.0\refint\szamrendszerek.dll
+C:\Users\sipos\source\repos\szamrendszerek\szamrendszerek\obj\Debug\net8.0\szamrendszerek.pdb
+C:\Users\sipos\source\repos\szamrendszerek\szamrendszerek\obj\Debug\net8.0\szamrendszerek.genruntimeconfig.cache
+C:\Users\sipos\source\repos\szamrendszerek\szamrendszerek\obj\Debug\net8.0\ref\szamrendszerek.dll
